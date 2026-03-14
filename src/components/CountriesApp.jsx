@@ -6,7 +6,7 @@ const CountriesApp = () => {
   return (
     <div className='min-h-screen bg-linear-to-br from-gray-900 to-gray-800 p-8 py-12'>
       <div className='mx-auto max-w-6xl'>
-        <h1 className='mb-12 bg-linear-to-r from-blue-600 to-purple-600 bg-clip-text text-center text-4xl font-bold text-transparent'>
+        <h1 className='mb-12 bg-linear-to-r from-blue-600 to-purple-600 bg-clip-text text-center text-6xl font-bold text-transparent'>
           Country List
         </h1>
         {/* Search */}
